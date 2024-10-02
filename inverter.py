@@ -4,7 +4,7 @@ def inverter_string(original):
         invertida = caractere + invertida
     return invertida
 
-# String a ser invertida
+
 string_informada = input("Informe uma string para ser invertida: ")
 
 string_invertida = inverter_string(string_informada)
