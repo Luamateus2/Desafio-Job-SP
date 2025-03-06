@@ -19,13 +19,14 @@ Certifique-se de ter o **Python** instalado e siga os passos abaixo:
    git clone https://github.com/Luamateus2/Desafio-Job-SP.git
    cd Desafio-Job-SP
 Execute cada questão individualmente:
-bash
-Copiar
-Editar
 python questao1.py
+
 python questao2.py
+
 python questao3.py
+
 python questao4.py
+
 📌 Explicação das Soluções
 🔹 Questão 1
 Implementa um laço while para calcular a soma de números até um valor específico.
