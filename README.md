@@ -16,8 +16,8 @@ Certifique-se de ter o **Python** instalado e siga os passos abaixo:
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/Luamateus2/Desafio-Job-SP.git
+   cd Desafio-Job-SP
 Execute cada questão individualmente:
 bash
 Copiar
